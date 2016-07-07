@@ -1,3 +1,16 @@
-body{
-	background:blue;
+h3{
+	font-size:30px;
+}
+table tr{
+	line-height:40px;
+}
+#main_content h2{
+	text-align:left;
+	font-style: normal;
+	font-size:30px;
+}
+#main_content h3{
+	text-align:left;
+	font-style: normal;
+	font-size:20px;
 }
