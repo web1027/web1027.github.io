@@ -1,0 +1,8 @@
+title: Web1027.GitHub.io
+description: 这是我的个人网站
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
